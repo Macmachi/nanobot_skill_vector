@@ -4,7 +4,7 @@ Vector memory system for Agent using ChromaDB and  API embeddings. Enables seman
 
 Here's an explanation about the embedding API and local alternatives:
 
-The current implementation uses VeniceAI's API for text embedding via the `text-embedding-bge-m3` model, which offers excellent multilingual support. However, this can easily be modified to use local embedding models instead.
+The current implementation uses AI's API for text embedding via the `text-embedding-bge-m3` model, which offers excellent multilingual support. However, this can easily be modified to use local embedding models instead.
 
 To switch to local embeddings, you would need to:
 
